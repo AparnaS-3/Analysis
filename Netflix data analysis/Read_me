@@ -1,1 +1,12 @@
+–
+o Conducted a comprehensive analysis of Netflix's content using Python. The project aimed to identify patterns and 
+trends in content published by Netflix in the last few years. 
 
+o Gathered the dataset and cleaned the data to ensure it was ready for analysis. I used Python's Pandas library to 
+perform exploratory data analysis and gain insights into the dataset.
+
+o Visualized the data using Python's Matplotlib and Seaborn libraries to create interactive visualizations
+
+The link for the dataset --> https://www.kaggle.com/datasets/ariyoomotade/netflix-data-cleaning-analysis-and-visualization
+
+-- Feel free to reach out to me for any suggestions 
